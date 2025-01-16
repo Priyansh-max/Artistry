@@ -1,9 +1,23 @@
----> This a web3 based platform where artists and users a connected directly without any intervention of a third party
+# Web3 Platform for Artists and Users
 
----> Home page shows all the membership that a user can rent to avail the exclusive content of any particular artist by connecting there metamask account and paying directly to the artist
+This is a **Web3-based platform** that connects artists and users directly, eliminating third-party intervention.
 
-customised profile page -
+## Features
 
----> where in you will see all the membership you have created also you can see how many users have rented your membership and many more 
+### Home Page
+- Discover all the **memberships** available for rent.
+- Connect your **MetaMask** account to pay artists directly and access their exclusive content.
 
----> and also it shows what all membership you have rented and the amount of days left
+### Customized Profile Page
+- **For Artists**:
+  - View all the memberships **you have created**.
+  - Track how many users have rented your memberships.
+  - Access additional insights about your memberships.
+
+- **For Users**:
+  - View all the memberships **you have rented**.
+  - Check the remaining number of days for each membership.
+
+---
+
+This platform leverages Web3 technology to provide a decentralized, transparent, and artist-focused ecosystem. Enjoy seamless transactions and exclusive content without intermediaries!
